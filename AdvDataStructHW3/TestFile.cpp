@@ -1,7 +1,7 @@
-#include<PersonClass.h>
-#include<BookClass.h>
+#include<person>
+#include<PhoneBook>
 #include<iostream>
-#include<vecetor>
+#include<vector>
 #include<string>
 
 using namespace std;

@@ -1,18 +1,18 @@
 #include<iostream>
-#include<vecetor>
+#include<vector>
 #include<string>
 using namespace std;
 
 class Person{
-    person();
+    Person();
     private:
     int phoneNum;
-    string LName;
-    string FName;
+    string Lname;
+    string Fname;
 
     public:
     //setter functions
-    void setPhoneNum(phoneNum){
+    void setPhoneNum(int phoneNum){
         this->phoneNum = phoneNum;
     }
     void setLastName(string Lname){
